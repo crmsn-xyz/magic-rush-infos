@@ -1,4 +1,4 @@
-<img src="media/banner.png" width="100%"/>
+<img src="media/banner.svg" width="100%"/>
 
 Welcome the the information page of my game called **Magic Rush**. In here you find a few information about my game. If you have more questions, just open a ticket in the [issues tab](https://github.com/crmsn-xyz/magic-rush-infos/issues) and ask me! I would love to answer it!
 
