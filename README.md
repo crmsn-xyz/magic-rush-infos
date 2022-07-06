@@ -26,6 +26,23 @@ Here you can find some informations about the latest patches.
     </tr>
     <tr>
         <td>
+            <h3>Music</h3>
+            <p>I added some background music to the game and made it loop. Also stopped destroying the music on load a different scene.</p>
+            <a href="./MARKDOWN/CURRENTLY.md"><img src="https://img.shields.io/badge/-▶%20Read%20more-blue?style=flat-square" /></a>
+        </td>
+        <td><code>0.5.4-alpha</code></td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Animations</h3>
+            <p>I updated the main menu by creating a title image for the main menu, and made it animate.</p>
+            <code>// Needs to be fixed</code><br />
+            <a href="./MARKDOWN/CURRENTLY.md"><img src="https://img.shields.io/badge/-▶%20Read%20more-blue?style=flat-square" /></a>
+        </td>
+        <td><code>0.5.3-alpha</code></td>
+    </tr>
+    <tr>
+        <td>
             <h3>Add Graphics to the game</h3>
             <p>I added some graphics to the game I got from an <a href="https://de.fiverr.com/runwthewolves/do-pixel-art-of-anything-you-need?context_referrer=logged_in_homepage&source=recently_and_inspired&ref_ctx_id=dd31ae19a33f1f747c8fd33e8b485b57&context=recommendation&pckg_id=1&pos=1&mod=hap%7Cpot&context_alg=recently_ordered&recommended_package_id=1&recommended_price=11000&tier_selection=recommended&imp_id=c91df457-c34c-4d12-bbf3-1402dc22bc2d">Fiverr Artist</a>. I also tried to create an own <b>App Icon</b>, but have to change it, because it doesn't look that good.</p>
             <a href="#"><img src="https://img.shields.io/badge/-▶%20Read%20more-blue?style=flat-square" /></a>
