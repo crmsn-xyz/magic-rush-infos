@@ -8,7 +8,7 @@ Here ware some informations about:
 | What?!               | Information                                                                                        |
 |:---------------------|:---------------------------------------------------------------------------------------------------|
 | Engine               | [Unity Engine](https://unity.com)                                                                  |
-| Where to find        | [![Google Drive](https://img.shields.io/badge/Download-Google%20Drive-%234285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/10Oq3wnehcZUNK3tOsYPlFgi-1nwiiMzI/view?usp=sharing) |
+| Where to find        | [![Google Drive](https://img.shields.io/badge/Download-Google%20Drive-%234285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/10TrkZKaAyaxQGRJe4VGiiui3x5coBLfq/view?usp=sharing) |
 | Stare of Development | Currently working on version `0.6.0-alpha`.                                                        |
 
 ## How to install
@@ -23,6 +23,14 @@ Here you can find some informations about the latest patches.
     <tr>
         <th>Patchnotes</th>
         <th>Version Number</th>
+    </tr>
+    <tr>
+        <td>
+            <h3>Sound Effects</h3>
+            <p>I added some sound effects to the game. Sound for shooting, sounds for collecting coins, for killing the player.</p>
+            <a href="./MARKDOWN/CURRENTLY.md"><img src="https://img.shields.io/badge/-▶%20Read%20more-blue?style=flat-square" /></a>
+        </td>
+        <td><code>0.5.5-alpha</code></td>
     </tr>
     <tr>
         <td>
