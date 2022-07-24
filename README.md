@@ -1,15 +1,13 @@
 <img src="media/banner.svg" width="100%"/>
 
+<a href="https://gitmoji.dev">
+  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+</a>
+<a href="https://drive.google.com/file/d/10TrkZKaAyaxQGRJe4VGiiui3x5coBLfq/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Download-Google%20Drive-%234285F4?style=flat-square&logo=google-drive&logoColor=white" alt="Download">
+</a>
+
 Welcome the the information page of my game called **Magic Rush**. In here you find a few information about my game. If you have more questions, just open a ticket in the [issues tab](https://github.com/crmsn-xyz/magic-rush-infos/issues) and ask me! I would love to answer it!
-
-Here ware some informations about:
-
-## Generell Information
-| What?!               | Information                                                                                        |
-|:---------------------|:---------------------------------------------------------------------------------------------------|
-| Engine               | [Unity Engine](https://unity.com)                                                                  |
-| Where to find        | [![Google Drive](https://img.shields.io/badge/Download-Google%20Drive-%234285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/10TrkZKaAyaxQGRJe4VGiiui3x5coBLfq/view?usp=sharing) |
-| Stare of Development | Currently working on version `0.6.0-alpha`.                                                        |
 
 ## How to install
 At first you have to download the newest `.apk` file from the Google Drive. After downloading, send it to your mobile phone. You can install it, by pressing on the apk file, or by using the **Google APK Installer**. The app should appear on your homescreen after installing.
